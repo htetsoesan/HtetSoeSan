@@ -1,7 +1,2 @@
-first		after
-gps		first allow	--> successful
-gps		second allow	-->successful
-gps		last allow	--2nd/successful
-
-last deny	last gps	-->4,5,6nd successful
+Hello ladies and gentlemen
 
